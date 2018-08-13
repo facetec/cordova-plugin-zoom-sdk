@@ -10,7 +10,7 @@ repositories{
 
 dependencies {
   compile 'com.android.support:appcompat-v7:25.3.1'
-  implementation 'com.facetec:zoom-authentication:6.3.1'
+  implementation 'com.facetec:zoom-authentication:6.5.0'
 }
 
 android {

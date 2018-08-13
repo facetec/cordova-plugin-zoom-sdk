@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-zoom-sdk",
-  "version": "6.3.1",
+  "version": "6.5.0",
   "description": "A plugin for adding the ZoOm face login SDK to a Cordova application ",
   "cordova": {
     "id": "com.facetec.cordova.ZoomAuthentication",
